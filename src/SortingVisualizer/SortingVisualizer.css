@@ -1,0 +1,29 @@
+.array-container {
+    position: absolute;
+    left: 10px;
+    top: 40px;
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  button{
+    background-color: rgba(10, 87, 33, 0.795);
+    margin: 20px 20px;
+    padding: 10px 10px;
+    box-shadow: 5px;
+    border-radius: 10px;
+  }
+  body{
+    background: white;
+  }
+  button:hover{
+    background-color: rgb(18, 48, 11);
+    color: rgb(66, 189, 127);
+
+  }
+  footer{
+    background-color: rgba(97, 221, 59, 0.322);
+  }
